@@ -1,19 +1,16 @@
 <p align="center">
-      <img src="https://i.ibb.co/QQjtvZS/Screenshot-3.png"" width="256">
+      <img src="Assets/Images/WaveRunner.png"" width="256">
 </p>
 <p align="center">
-   <img src="https://img.shields.io/badge/Unity Version-2023.2.20f1-green" alt="Unity Version">
+   <img src="https://img.shields.io/badge/Unity Version-2023.2.20f1-blue" alt="Unity Version">
 </p>
 
 ## About
-**Wall Hop** — это динамичная аркадная игра, где вы управляете маленьким квадратом, который должен прыгать через препятствия и собирать очки. Постарайтесь продержаться как можно дольше, избегая столкновений с преградами и набирая максимальное количество очков!
+**Wave Runner** — Игра представляет собой аркаду в казуальном стиле. Игрок управляет движением маленькой сферы нажатием на левую кнопку мыши или на экран мобильного устройства. Цель игры состоит в том, чтобы, избегая препятствий, набрать как можно большее количество очков.
 
-## Documentation
-- **Минималистичный дизайн**: Чистый и понятный интерфейс, сосредоточенный на игровом процессе.
-- **Растущая сложность**: По мере прохождения игра становится сложнее, за счёт увеличения скорости.
-
-[[Video]](https://www.youtube.com/shorts/UPeQYuerd8o)
+[[Video]](https://youtube.com/shorts/WlYsuzu-gR0?feature=share)
 
 ## Screenshots
-![Скриншот 1](Assets/Resources/Images/Screenshot1.png)
-![Скриншот 2](Assets/Resources/Images/Screenshot2.png)
+![Скриншот 1](Assets/Images/Start.png)
+![Скриншот 2](Assets/Images/Gameplay.png)
+![Скриншот 2](Assets/Images/Restart.png)
