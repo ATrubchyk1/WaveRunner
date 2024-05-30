@@ -8,7 +8,7 @@
 ## About
 **Wave Runner** — Игра представляет собой аркаду в казуальном стиле. Игрок управляет движением маленькой сферы нажатием на левую кнопку мыши или на экран мобильного устройства. Цель игры состоит в том, чтобы, избегая препятствий, набрать как можно большее количество очков.
 
-[[Video on YouTube]](https://youtube.com/shorts/WlYsuzu-gR0?feature=share)
+[[Video on YouTube]](https://youtu.be/Q_nCZCpL54k)
 
 ## Screenshots
 ![Скриншот 1](Assets/Images/Gameplay.png)
