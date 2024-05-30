@@ -11,6 +11,5 @@
 [[Video]](https://youtube.com/shorts/WlYsuzu-gR0?feature=share)
 
 ## Screenshots
-![Скриншот 1](Assets/Images/Start.png)
-![Скриншот 2](Assets/Images/Gameplay.png)
+![Скриншот 1](Assets/Images/Gameplay.png)
 ![Скриншот 2](Assets/Images/Restart.png)
